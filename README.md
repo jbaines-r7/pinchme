@@ -366,6 +366,9 @@ doom_ascii  doom_ascii.map
 tc@box:/root/doom-ascii/doom_ascii$ ./doom_ascii -iwad ../../DOOM.WAD 
 ```
 
+![doom_on_asa_vm](https://user-images.githubusercontent.com/91965877/173388409-6c1f28fc-e291-498f-a525-3837c17a1047.png)
+
+
 ## Tested
 
 This script was tested on Ubuntu 20.04.04. The generated ISO was tested on an ASA 5506-X with FirePOWER Services.
